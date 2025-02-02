@@ -1,0 +1,6 @@
+yfinance
+numpy
+pyspark == 3.5.1
+influxdb
+influxdb_client
+grafana
